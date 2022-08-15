@@ -2,7 +2,7 @@
 
 ## Screenshot(s)
 
-![Simulator Screen Shot - iPhone 12 - 2022-08-15 at 11 20 22](https://user-images.githubusercontent.com/45005798/184610338-f845ba2e-ca8b-4ce5-aa68-c6292e9e7232.png)
+[![Simulator-Screen-Shot-i-Phone-12-2022-08-15-at-11-20-22.png](https://i.postimg.cc/J0jpQJ78/Simulator-Screen-Shot-i-Phone-12-2022-08-15-at-11-20-22.png)](https://postimg.cc/RJV1SWnp)
 
 ## Architecture
 
