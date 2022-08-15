@@ -7,15 +7,15 @@ MVVM + Combine/SwiftUI
 
 ## Layers
 
-Domain Layer = Entities + Use Cases + Repositories Interfaces
-Data Repositories Layer = Repository Implementation + API
-Presentation Layer = ViewModels + Views
+* Domain Layer = Entities + Use Cases + Repositories Interfaces
+* Data Repositories Layer = Repository Implementation + API
+* Presentation Layer = ViewModels + Views
 
 ## Architecture Concepts
 
-https://github.com/tuan188/CleanArchitecture
-https://github.com/kudoleh/iOS-Clean-Architecture-MVVM
-https://betterprogramming.pub/implement-a-clean-mvvm-architecture-in-swiftui-with-combine-637246fa1342
+* https://github.com/tuan188/CleanArchitecture
+* https://github.com/kudoleh/iOS-Clean-Architecture-MVVM
+* https://betterprogramming.pub/implement-a-clean-mvvm-architecture-in-swiftui-with-combine-637246fa1342
 
 ## Netowrking
 
