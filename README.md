@@ -26,6 +26,11 @@ MVVM + Combine/SwiftUI
 
 Adyen Networking Local SPM
 
+## Unit Tests
+
+* Adyen Networking unit tests
+* View Model unit tests
+
 ## Requirements
 
 Xcode Version 11.2.1+ Swift 5.0+
